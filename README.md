@@ -1,4 +1,4 @@
-# Creating Deep Learning Models for Classification of Sequencing Artifacts in Long-Read Whole Genome Sequencing Data
+# Creating Deep Learning Models for Classification of Sequencing Artifacts in Long-Read Whole Genome Sequencing (WGS) Data
 
 The goal of this project is to build deep learning classification models to distinguish artifactual variant calls from genuine artifacts in long-read sequencing data. The three major steps (corresponding to the three notebooks here) for carrying this out are the following:
 
